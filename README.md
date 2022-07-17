@@ -1,18 +1,20 @@
-### Who I am
+### Bio
 + Head of CG and Pipeline Supervisor @ Gizmo :argentina:
-+ Python Developer :snake:
-+ Maya/Nuke/Houdini PySide Tools Developer for CG Animation Pipelines
 + 18 years working on the CG / Animation field
 + Creator of *Arcane2* Animation Pipeline
 
-#### Working with and always learning
-+ Python
+### Skills
++ Python Developer :snake:
++ Maya/Nuke/Houdini PySide Tools Developer for CG Animation Pipelines
+
+#### Working with (and keeping up to date)
++ Python :snake:
 + PyQt / PySide
 + FastAPI
 + MongoDB / PyMongo / Motor
 + Autodesk Maya
 
-#### I’m currently learning
+#### Currently into/learning
 + CI/CD - GitHub Actions
 + Docker
 + Side Effects Houdini
@@ -24,4 +26,4 @@
 + [QtLog](https://github.com/MaxRocamora/QtLog) - *A custom python log for output messages in Maya*
 
 #### 💬 Ask me about
-+ Anything of the above at maxirocamora[@]gmail
++ Anything of the above (or related fields) at maxirocamora[@]gmail[.]com
