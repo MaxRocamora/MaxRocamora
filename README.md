@@ -5,7 +5,7 @@
 + 18 years working on the CG / Animation field
 + Creator of *Arcane2* Animation Pipeline
 
-#### Working and always learning
+#### Working with and always learning
 + Python
 + PyQt / PySide
 + FastAPI
@@ -22,11 +22,6 @@
 + [MayaShaderLibrary](https://github.com/MaxRocamora/MayaShaderLibrary) - *A Shader Manager tool for Autodesk Maya*
 + [MayaWorkflow](https://github.com/MaxRocamora/MayaWorkflow) - *Some random tools for Autodesk Maya.*
 + [QtLog](https://github.com/MaxRocamora/QtLog) - *A custom python log for output messages in Maya*
-
-#### Fan of
-+ Blade Runner
-+ My Cats :cat2: :cat2:
-+ Lists :smile:
 
 #### 💬 Ask me about
 + Anything of the above at maxirocamora[@]gmail
