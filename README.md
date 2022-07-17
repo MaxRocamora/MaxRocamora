@@ -14,7 +14,7 @@
 + MongoDB / PyMongo / Motor
 + Autodesk Maya
 
-#### Currently into/learning
+#### Currently into / learning
 + CI/CD - GitHub Actions
 + Docker
 + Side Effects Houdini
@@ -25,5 +25,5 @@
 + [MayaWorkflow](https://github.com/MaxRocamora/MayaWorkflow) - *Some random tools for Autodesk Maya.*
 + [QtLog](https://github.com/MaxRocamora/QtLog) - *A custom python log for output messages in Maya*
 
-#### 💬 Ask me about
-+ Anything of the above (or related fields) at maxirocamora[@]gmail[.]com
+#### 💬 Contact
++ Feel free to reach out regarding anything of the above (or related fields) at maxirocamora[@]gmail[.]com
