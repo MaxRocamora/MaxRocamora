@@ -1,4 +1,4 @@
-### Who am I
+### Who I am
 + Head of CG and Pipeline Supervisor @ Gizmo :argentina:
 + Python Developer :snake:
 + Maya/Nuke/Houdini PySide Tools Developer for CG Animation Pipelines
