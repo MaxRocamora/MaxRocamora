@@ -1,16 +1,32 @@
-### Hi there 👋
+### Who am I
++ Head of CG and Pipeline Supervisor @ Gizmo :argentina:
++ Python Developer :snake:
++ Maya/Nuke/Houdini PySide Tools Developer for CG Animation Pipelines
++ 18 years working on the CG / Animation field
++ Creator of *Arcane2* Animation Pipeline
 
-<!--
-**MaxRocamora/MaxRocamora** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### Working and always learning
++ Python
++ PyQt / PySide
++ FastAPI
++ MongoDB / PyMongo / Motor
++ Autodesk Maya
 
-Here are some ideas to get you started:
+#### I’m currently learning
++ CI/CD - GitHub Actions
++ Docker
++ Side Effects Houdini
++ Pixar USD Format / Workflow
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Side Projects (Check Repos)
++ [MayaShaderLibrary](https://github.com/MaxRocamora/MayaShaderLibrary) - *A Shader Manager tool for Autodesk Maya*
++ [MayaWorkflow](https://github.com/MaxRocamora/MayaWorkflow) - *Some random tools for Autodesk Maya.*
++ [QtLog](https://github.com/MaxRocamora/QtLog) - *A custom python log for output messages in Maya*
+
+#### Fan of
++ Blade Runner
++ My Cats :cat2: :cat2:
++ Lists :smile:
+
+#### 💬 Ask me about
++ Anything of the above at maxirocamora[@]gmail
