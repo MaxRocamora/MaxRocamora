@@ -1,4 +1,4 @@
-### Bio
+### About Me
 + Head of CG and Pipeline Supervisor @ Gizmo :argentina:
 + 18 years working on the CG / Animation field
 + Creator of *Arcane2* Animation Pipeline
