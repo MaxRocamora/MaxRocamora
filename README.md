@@ -17,7 +17,7 @@
 + CI/CD - GitHub Actions
 + Docker
 + Side Effects Houdini
-+ Pixar USD Format / Workflow
++ Pixar USD Workflow
 
 #### Side Projects (Check Repos)
 + [MayaShaderLibrary](https://github.com/MaxRocamora/MayaShaderLibrary) - *A Shader Manager tool for Autodesk Maya*
