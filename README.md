@@ -1,19 +1,20 @@
 ### About Me
 + Head of CG and Pipeline Supervisor @ Gizmo :argentina:
-+ 18 years working on the CG / Animation field
++ 19 years working on the CG / Animation field
 
 ### Skills
 + Python Developer :snake:
-+ Maya/Nuke/Houdini PySide Tools Developer for CG Animation Pipelines
++ Maya/Nuke/Houdini Python Tools Developer for Animation Pipelines
 
-#### Working with
+#### Tools
 + Python :snake:
 + PyQt / PySide
 + FastAPI
 + MongoDB / PyMongo
 + Autodesk Maya
++ SideEffects Houdini
 
-#### Currently into / learning
+#### Currently learning
 + CI/CD - GitHub Actions
 + Docker
 + Side Effects Houdini
@@ -21,8 +22,6 @@
 
 #### Side Projects (Check Repos)
 + [MayaShaderLibrary](https://github.com/MaxRocamora/MayaShaderLibrary) - *A Shader Manager tool for Autodesk Maya*
-+ [MayaWorkflow](https://github.com/MaxRocamora/MayaWorkflow) - *Some random tools for Autodesk Maya.*
-+ [QtLog](https://github.com/MaxRocamora/QtLog) - *A custom python log for output messages in Maya*
++ [MayaWorkflow](https://github.com/MaxRocamora/MayaWorkflow) - *Some random workflow tools for Autodesk Maya.*
++ [QtLog](https://github.com/MaxRocamora/QtLog) - *A color-coded custom logger for log output messages in Maya Qt Tools*
 
-#### 💬 Contact
-+ Feel free to reach out regarding anything of the above (or related fields) at maxirocamora[@]gmail[.]com
