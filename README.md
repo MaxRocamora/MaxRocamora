@@ -18,10 +18,9 @@
 + CI/CD - GitHub Actions
 + Docker
 + Side Effects Houdini
-+ Pixar USD Workflow
++ Unreal Engine 5
 
 #### Side Projects (Check Repos)
 + [MayaShaderLibrary](https://github.com/MaxRocamora/MayaShaderLibrary) - *A Shader Manager tool for Autodesk Maya*
-+ [MayaWorkflow](https://github.com/MaxRocamora/MayaWorkflow) - *Some random workflow tools for Autodesk Maya.*
 + [MayaRenamer](https://github.com/MaxRocamora/MayaRenamer) - *A 3dsmax styled renamer for Autodesk Maya.*
 + [QtLog](https://github.com/MaxRocamora/QtLog) - *A color-coded custom logger for log output messages in Maya Qt Tools*
